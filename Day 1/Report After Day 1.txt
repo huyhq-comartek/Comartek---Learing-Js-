@@ -1,0 +1,5 @@
+Hôm nay em đã làm được những việc sau:
+-Cài đặt thành công Ubuntu và chạy thử file js thành công trên vscode
+-Hiểu về nguyên nhân Floating Point
+-Biết cách so sánh Object với nhau
+-Tìm hiểu về các loại vòng for
