@@ -5,5 +5,4 @@ Hôm nay em đã làm được những việc sau:
 -Tìm hiểu về các loại vòng for
 
 Các file thực hành là : 
-    + compareTwoObjects.js 
-    + floatingPoint.js
+    +myWork.js
