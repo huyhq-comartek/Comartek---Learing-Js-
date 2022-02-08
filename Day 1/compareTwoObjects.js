@@ -62,16 +62,16 @@ function objectComparison(x, y){
 console.log('Compare two equal objects - return true')
 console.log('   ','Object1', object1)
 console.log('   ','Object2', object2)
-console.log('   ',objectComparison(object1, object2))
+console.log('Result',objectComparison(object1, object2))
 
 //Compare two objects have different values - return false
 console.log('Compare two objects have different values - return false')
 console.log('   ','Object1', object1)
 console.log('   ','Object3', object3)
-console.log('   ',objectComparison(object1, object3))
+console.log('    Result',objectComparison(object1, object3))
 
 //Compare two objects have different properties - return false
 console.log('Compare two objects have different properties - return false')
 console.log('   ','Object1', object1)
 console.log('   ','Object4', object4)
-console.log('   ',objectComparison(object1, object4))
+console.log('    Result',objectComparison(object1, object4))
